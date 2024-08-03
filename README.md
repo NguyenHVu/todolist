@@ -7,16 +7,19 @@
 
 ### you want to update source code
 
-    - change file update to stage change
+
 ```bash
+    # change file update to stage change
     git add .
 ```
-    - commit code 
+
 ```bash
+    # commit code 
     git commit -m "message you update"
 ```
-    - push code
+
 ```bash
+    # push code
     git push
 ```
 
