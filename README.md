@@ -1,20 +1,22 @@
 # todolist
 
-you have source code in github 
+### you have source code in github 
 ```bash
     git clone "<link source github>"
 ```
 
-you want to update source code
+### you want to update source code
 
+    - change file update to stage change
 ```bash
-    change file update to stage change
     git add .
-
-    commit code 
+```
+    - commit code 
+```bash
     git commit -m "message you update"
-
-    push code
+```
+    - push code
+```bash
     git push
 ```
 
